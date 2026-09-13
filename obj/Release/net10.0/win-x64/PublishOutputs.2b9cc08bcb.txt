@@ -1,0 +1,4 @@
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\ServerListPlayersFix\resources\config.jsonc
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\ServerListPlayersFix\ServerListPlayersFix.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\ServerListPlayersFix\ServerListPlayersFix.pdb
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\ServerListPlayersFix\ServerListPlayersFix.deps.json

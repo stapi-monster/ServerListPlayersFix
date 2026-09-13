@@ -1,0 +1,15 @@
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\obj\Release\net10.0\win-x64\ServerListPlayersFix.csproj.AssemblyReference.cache
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\obj\Release\net10.0\win-x64\ServerListPlayersFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\obj\Release\net10.0\win-x64\ServerListPlayersFix.AssemblyInfoInputs.cache
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\obj\Release\net10.0\win-x64\ServerListPlayersFix.AssemblyInfo.cs
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\obj\Release\net10.0\win-x64\ServerListPlayersFix.csproj.CoreCompileInputs.cache
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\build\net10.0\win-x64\resources\config.jsonc
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\build\net10.0\win-x64\ServerListPlayersFix.deps.json
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\build\net10.0\win-x64\ServerListPlayersFix.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\build\net10.0\win-x64\ServerListPlayersFix.pdb
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\build\net10.0\win-x64\SQLite.Interop.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\obj\Release\net10.0\win-x64\ServerLi.60B71342.Up2Date
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\obj\Release\net10.0\win-x64\ServerListPlayersFix.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\obj\Release\net10.0\win-x64\refint\ServerListPlayersFix.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\obj\Release\net10.0\win-x64\ServerListPlayersFix.pdb
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\ServerListPlayersFix\obj\Release\net10.0\win-x64\ref\ServerListPlayersFix.dll
